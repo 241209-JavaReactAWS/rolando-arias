@@ -1,0 +1,9 @@
+Hi, I'm Roland
+
+I've recently graduated from the University of Florida with a Bachelor's in Computer Science
+
+My favorite programming language is Kotlin
+
+Some of my hobbies are hiking, skiing, and kayaking
+
+I have a fear of heights
